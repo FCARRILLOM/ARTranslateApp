@@ -1,6 +1,6 @@
 # ARTranslateApp
 
-This app serves as a language translator. It plans to break the language barrier. Once it listens to foreign speech, it will translate it a chosen language and display the equivalent message to the user. It will display the text using Spritz reading so the user can read it faster in real time.
+This app serves as a language translator. Its goal is to break the language barrier. Once it listens to foreign speech, it will translate it a chosen language and display the equivalent message to the user. It will display the text using Spritz reading so the user can read it faster in real time.
 
 Use cases:
 - Traveling
