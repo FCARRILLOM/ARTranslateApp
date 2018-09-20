@@ -9,6 +9,8 @@ Use cases:
 - Deaf people can use it to read what a person in saying aloud
 - Foreign language courses/classrooms
 
+![](ARSpeech.gif)
+
 This app is intended to be used on an augmented reality headset but for the meantime and for porject validation is has been developed as an iOS app since it is the area in which I have the most knowledge. It will soon be adapted to function with Google Cardboard and if I get a computer with Windows 10 I plan translate it to C# so it can run in Unity and in a Microsoft Hololens Emulator.
 
 Possible means of distribution:
